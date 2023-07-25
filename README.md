@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NabilIsaac
 - 👀 I’m currently working on a comprehensive hospital management system.
-- 🌱 I’m currently learning flutter
-- 💞️ Ask me about Laravel, vue
+- 🌱 I’m currently learning mongodb
+- 💞️ Ask me about Laravel, vuejs
 - 📫 How to reach me nabilkhafali@gmail.com
 
 <!---
